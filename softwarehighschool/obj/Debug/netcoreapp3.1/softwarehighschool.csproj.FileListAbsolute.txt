@@ -1,0 +1,16 @@
+D:\svn\softwarehighschool\softwarehighschool\bin\Debug\netcoreapp3.1\softwarehighschool.exe
+D:\svn\softwarehighschool\softwarehighschool\bin\Debug\netcoreapp3.1\softwarehighschool.deps.json
+D:\svn\softwarehighschool\softwarehighschool\bin\Debug\netcoreapp3.1\softwarehighschool.runtimeconfig.json
+D:\svn\softwarehighschool\softwarehighschool\bin\Debug\netcoreapp3.1\softwarehighschool.runtimeconfig.dev.json
+D:\svn\softwarehighschool\softwarehighschool\bin\Debug\netcoreapp3.1\softwarehighschool.dll
+D:\svn\softwarehighschool\softwarehighschool\bin\Debug\netcoreapp3.1\softwarehighschool.pdb
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.csproj.AssemblyReference.cache
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.MainForm.resources
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.Properties.Resources.resources
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.csproj.GenerateResource.cache
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.AssemblyInfoInputs.cache
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.AssemblyInfo.cs
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.csproj.CoreCompileInputs.cache
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.dll
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.pdb
+D:\svn\softwarehighschool\softwarehighschool\obj\Debug\netcoreapp3.1\softwarehighschool.genruntimeconfig.cache
